@@ -10,3 +10,4 @@ import matplotlib.pyplot as plt
 t=np.linspace(0,100,100)
 plt.figure()
 plt.plot(t)
+plt.grid(True)
